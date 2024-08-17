@@ -1,0 +1,1 @@
+#### This project demonstrates the fundamental operations of Create, Read, Update, and Delete (CRUD) using Java Database Connectivity (JDBC) with a relational database. It provides a practical implementation of interacting with a database from a Java application.
