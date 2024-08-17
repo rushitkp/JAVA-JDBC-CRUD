@@ -15,6 +15,8 @@ public class Delete {
             int a = ps.executeUpdate();
             if (a > 0) {
                 System.out.println(a + " Rows Deleted.");
+            } else {
+                System.out.println("Deletion Failed");
             }
 
         } catch (Exception e) {
